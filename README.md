@@ -10,5 +10,5 @@ For the final project, you will create an explanatory data visualization from a 
 * baseball_data.csv  
 * Baseball Player Performance v1.twbx  
 * Baseball Player Performance v2.twbx  
-* C939 EDA.ipynb  
+
 
